@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\geek_brains\задания_C#\homework8\ex5\bin\Debug\net6.0\ex5.exe
+C:\Users\HP\Downloads\geek_brains\задания_C#\homework8\ex5\bin\Debug\net6.0\ex5.deps.json
+C:\Users\HP\Downloads\geek_brains\задания_C#\homework8\ex5\bin\Debug\net6.0\ex5.runtimeconfig.json
+C:\Users\HP\Downloads\geek_brains\задания_C#\homework8\ex5\bin\Debug\net6.0\ex5.dll
+C:\Users\HP\Downloads\geek_brains\задания_C#\homework8\ex5\bin\Debug\net6.0\ex5.pdb
+C:\Users\HP\Downloads\geek_brains\задания_C#\homework8\ex5\obj\Debug\net6.0\ex5.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\geek_brains\задания_C#\homework8\ex5\obj\Debug\net6.0\ex5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\geek_brains\задания_C#\homework8\ex5\obj\Debug\net6.0\ex5.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\geek_brains\задания_C#\homework8\ex5\obj\Debug\net6.0\ex5.AssemblyInfo.cs
+C:\Users\HP\Downloads\geek_brains\задания_C#\homework8\ex5\obj\Debug\net6.0\ex5.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\geek_brains\задания_C#\homework8\ex5\obj\Debug\net6.0\ex5.dll
+C:\Users\HP\Downloads\geek_brains\задания_C#\homework8\ex5\obj\Debug\net6.0\refint\ex5.dll
+C:\Users\HP\Downloads\geek_brains\задания_C#\homework8\ex5\obj\Debug\net6.0\ex5.pdb
+C:\Users\HP\Downloads\geek_brains\задания_C#\homework8\ex5\obj\Debug\net6.0\ex5.genruntimeconfig.cache
+C:\Users\HP\Downloads\geek_brains\задания_C#\homework8\ex5\obj\Debug\net6.0\ref\ex5.dll
